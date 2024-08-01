@@ -36,5 +36,6 @@ docker run -it --platform linux/x86_64 -v "$(pwd)":/varpipelines <name/ID-of-ima
 Replace `name/ID-of-image>` with the name of the image that was pulled from docker, in this case, `luci-fry/ghansahlab`
 
 If the above command is successful, you will see that command line will show that you have root access like in the image below: 
-![alt text](https://drive.google.com/file/d/1I0U5z2qRS-cPG5fKU-4Mr87DH2U9CiWs/view?usp=drive_link "Root Access")
+
+<img width="230" alt="root" src="https://github.com/user-attachments/assets/6195e765-20ea-4315-acec-97024c02edf4">
 
