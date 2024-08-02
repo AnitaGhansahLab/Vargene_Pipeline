@@ -61,3 +61,8 @@ conda activate DBLa
 Now you are ready to run the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) !
 
 
+## Running the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) 
+
+The scripts needed for each step in the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) can be found in the Scripts directory. **Note** that the only change that has been made to these scripts is the inclusion of the actual paths (locations) of the software dependencies within the docker container. It is therefore advised to obtain the script from the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) tutorial page in case any updates are made. The path (locations) of the software dependencies can then be retrieved from the scripts in the Scripts folder. 
+
+
