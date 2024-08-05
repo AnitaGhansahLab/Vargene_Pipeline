@@ -63,6 +63,11 @@ Now you are ready to run the [DBLalpha Tutorial](https://github.com/UniMelb-Day-
 
 ## Running the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) 
 
-The scripts needed for each step in the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) can be found in the Scripts directory. **Note** that the only change that has been made to these scripts is the inclusion of the actual paths (locations) of the software dependencies within the docker container. It is therefore advised to obtain the script from the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) tutorial page in case any updates are made. The path (locations) of the software dependencies can then be retrieved from the scripts in the Scripts folder. 
+The scripts needed for each step in the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) can be found in the Scripts directory. **Note** that the only change that has been made to these scripts is the inclusion of the actual paths (locations) of the software dependencies within the docker container. It is therefore advised to obtain the script from the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) tutorial page in case any updates are made. The path (locations) of the software dependencies can then be retrieved from the scripts in the Scripts folder. Follow the recommendations below to be able to run the DBLalpha Tutorial smoothly. 
+
+1. Open your terminal and clone this current repository using `git clone <link-to-repository>` into your desired directory.
+2. Change the directory to the Vargene_Pipeline directory and clone the repository for the [DBLalpha Tutorial](https://github.com/UniMelb-Day-Lab/tutorialDBLalpha) using `git clone <link-to-repository>`.
+3. Copy the scripts in the Scripts directory of the Vargene_Pipeline directory into their appropriate directories in the DBLalpha Tutorial directory.
+4. Now go ahead and follow the steps in the DBLalpha Tutorial.
 
 
